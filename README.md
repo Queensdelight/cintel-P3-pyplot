@@ -1,11 +1,16 @@
 # Matplotlib and pyplot
+Using Matplotlib library to build charts.
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+## Bukola Adeniyan
 
-## Rubric
-
-Each question is worth two points: 
-
-* Data plotted as described by the question (1 pt)
-* Plot contains required elements (title, axis labels, axis titles, legend if required)
+### Objectives
+ - Create a virtual environment
+ - Activate the virtual environment
+ - Install into the active virtual environment (e.g. `python -m pip install matplotlib`)
+ - Install Matplotlib into our Virtual Environment and use import statements in our Python.
+ - Clone down your repo to your local machine
+ - Start up Jupyter lab (or Jupyter Notebook)
+ - Make edits to Markdown cells and Python code cells
+ - Add and commit your changes using Git
+ - Push your commit up to the GitHub repo
+ - Export your notebook as HTML (a web page) for submission using the menu
